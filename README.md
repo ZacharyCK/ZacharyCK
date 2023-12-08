@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZacharyCK
-- 👀 I’m interested in building web sites. Specifically, UI/UX
-- 🌱 I’m currently learning fronte end design/development.  HTML, CSS, JS. Going to learn React and WP in the future.
-- 💞️ I’m looking to collaborate on building an e-commerce site.
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently learning and building projects using Python libraries, SQL and Data Visualization Tools
+- 💞️ I’m looking to collaborate on projects relating to Data Analysis.
 - 📫 How to reach me zachary.c.kohs@gmail.com
 
 <!---
