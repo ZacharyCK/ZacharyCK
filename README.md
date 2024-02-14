@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZacharyCK
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning and building projects using Python libraries, SQL and Data Visualization Tools
-- 💞️ I’m looking to collaborate on projects relating to Data Analysis.
+- 👀 I’m a Web Developer
+- 🌱 I’m currently building projects that include ReactJS, ExpressJS and PostgreSQL
+- 💞️ I’m looking to collaborate on projects relating to Web Development.
 - 📫 How to reach me zachary.c.kohs@gmail.com
 
 <!---
